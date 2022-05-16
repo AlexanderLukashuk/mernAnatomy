@@ -1,4 +1,4 @@
 {
   "port": 5000,
-  "mongoUri": ""
+  "mongoUri": "mongodb+srv://Sanya:SuperMegaDB_1488@anotomy.sumsg.mongodb.net/users?retryWrites=true&w=majority"
 }
